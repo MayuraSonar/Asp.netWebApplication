@@ -11,7 +11,7 @@ namespace ELibrary
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            GridView1.DataBind();
+           // GridView1.DataBind();
         }
         // Go Button
         protected void Button1_Click(object sender, EventArgs e)
